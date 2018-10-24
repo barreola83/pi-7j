@@ -1,8 +1,8 @@
 {
   "name": "OnlineStore",
   "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "http://ionicframework.com/",
+  "author": "Team 4",
+  "homepage": "",
   "private": true,
   "scripts": {
     "start": "ionic-app-scripts serve",
